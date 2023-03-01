@@ -75,7 +75,7 @@
                     android:layout_marginLeft="20dp"
                     android:adjustViewBounds="true"
                     android:cropToPadding="true"
-                    app:srcCompat="@drawable/face" />
+                    app:srcCompat="@drawable/facenew8" />
 
                 <TextView
                     android:id="@+id/textView11"
@@ -113,8 +113,9 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginLeft="20dp"
                     android:adjustViewBounds="true"
+                    android:backgroundTint="#010101"
                     android:cropToPadding="true"
-                    app:srcCompat="@drawable/nplate3" />
+                    app:srcCompat="@drawable/noplate7" />
 
                 <TextView
                     android:id="@+id/textView6"
